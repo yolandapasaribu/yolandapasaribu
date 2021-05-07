@@ -10,6 +10,4 @@
     - LinkedIn https://www.linkedin.com/in/yolanda-al-hidayah-pasaribu-4402a4197/
 
 #
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yolandapasaribu&show_icons=true&theme=radical) 
-#
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yolandapasaribu&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yolandapasaribu&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yolandapasaribu&layout=compact)
