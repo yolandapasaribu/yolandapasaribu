@@ -8,3 +8,6 @@
     - Behance https://www.behance.net/yolandapasaribu
     - Dribbble https://dribbble.com/yolandapasaribu
     - LinkedIn https://www.linkedin.com/in/yolanda-al-hidayah-pasaribu-4402a4197/
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yolandapasaribu&show_icons=true&theme=radical)
